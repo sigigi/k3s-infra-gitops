@@ -44,6 +44,10 @@ ARGOCD_SERVICE_DOMAIN="argocd.office"
 - `ARGOCD_VERSION`: 설치할 Argo CD 버전
 - `ARGOCD_SERVICE_DOMAIN`: Argo CD UI에 접근하기 위한 도메인 주소
 
+버전은 아래 링크를 참조하세요.
+- **k3s releases**: https://github.com/k3s-io/k3s/releases
+- **Argo CD releases**: https://github.com/argoproj/argo-cd/releases
+
 ## 설치 후
 
 스크립트가 성공적으로 실행되면 다음 단계를 따르세요.
